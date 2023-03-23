@@ -11,7 +11,6 @@ Participants can also share their screens, enabling them to show each other othe
 The app could include other features, such as the ability to pause, rewind, or fast-forward the video, or to vote on what to watch next.
 Using the Agora RTC SDK, the app could offer a seamless, real-time experience for users, with low latency and high-quality video and audio. Additionally, the app could be designed to be user-friendly and easy to use, with a clean and intuitive interface.
 
-```
 
 # Home Page for Joing Rooms
 ![image](https://user-images.githubusercontent.com/88021838/227130923-d3967ee3-463b-4587-8298-7b99f3ec8782.png)
@@ -28,3 +27,5 @@ Using the Agora RTC SDK, the app could offer a seamless, real-time experience fo
 * 3 - Update APP ID, Temp Token and Channel Name in room_rtc.js
 ```javascript
 let APP_ID = "YOU-APP-ID"
+
+```
